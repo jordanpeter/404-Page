@@ -1,0 +1,21 @@
+#ligne1{
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-linear-gradient(left, green, yellow,indigo, red);
+  text-align: center;
+}
+
+#ligne2{
+  text-align: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+}
+
+#ligne3{
+  text-align: center;
+}
+
+body{
+  background-color: black;
+}
